@@ -5,10 +5,7 @@ Welcome to the Money Manager Application, powered by the Smart Bill Analyzer! Th
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
